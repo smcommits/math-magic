@@ -32,24 +32,24 @@ describe('calculate', () => {
   });
 
   it('should return absolute value of next if next present and buttonName is "+/-"', () => {
-    data = {total: '', next: '20', operation: ''}
-    expect(calculate(data, '+/-')).toEqual({next: -20})
-  })
+    data = { total: '', next: '20', operation: '' };
+    expect(calculate(data, '+/-')).toEqual({ next: -20 });
+  });
 
   it('should should return nothing if no values present and buttonName is "+/-"', () => {
-    data = {total: "", next: "", operation: ""}
-    expect(calculate(data, '+/-')).toEqual({})
-  })
+    data = { total: '', next: '', operation: '' };
+    expect(calculate(data, '+/-')).toEqual({});
+  });
 
   it('should return absolute value of total if total present and buttonName is "+/-"', () => {
-    data = {total: "4", next: "", operation: ""}
-    expect(calculate(data, '+/-')).toEqual({total: -4})
-  })
+    data = { total: '4', next: '', operation: '' };
+    expect(calculate(data, '+/-')).toEqual({ total: -4 });
+  });
 
   it('should return the result if all the values present and buttonName is "="', () => {
-    data = {total: '5', next: '5', operation: '+'}
-    expect(calculate(data, '=')).toEqual({next: "", operation: "", total: "10"})
-  })
+    data = { total: '5', next: '5', operation: '+' };
+    expect(calculate(data, '=')).toEqual({ next: '', operation: '', total: '10' });
+  });
 });
 
 describe('calculate - each with numbers from 1 to 9. It should return next + the number', () => {
