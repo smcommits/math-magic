@@ -1,0 +1,7 @@
+.mainNav {
+  justify-content: space-between;
+}
+
+.navLinks li:nth-child(2) {
+  margin: 0 10px;
+}
