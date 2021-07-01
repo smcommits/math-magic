@@ -31,7 +31,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
         AC
       </button>
       <button
-        className="sc-jSFjdj eajors"
+        className="sc-eCApnc gsChNR"
         color="white"
         onClick={[Function]}
         type="submit"
@@ -39,7 +39,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
         +/-
       </button>
       <button
-        className="sc-gKAaRy jaNjmA"
+        className="sc-eCApnc gsChNR"
         color="white"
         onClick={[Function]}
         type="submit"
@@ -47,7 +47,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
         %
       </button>
       <button
-        className="sc-iCoGMd laCQWH"
+        className="sc-eCApnc bOhWqq"
         color="orange"
         onClick={[Function]}
         type="submit"
@@ -57,7 +57,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
     </div>
     <div>
       <button
-        className="sc-fujyAs cRPXPR"
+        className="sc-eCApnc gsChNR"
         color="white"
         onClick={[Function]}
         type="submit"
@@ -65,7 +65,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
         7
       </button>
       <button
-        className="sc-pNWdM fQHWgf"
+        className="sc-eCApnc gsChNR"
         color="white"
         onClick={[Function]}
         type="submit"
@@ -73,7 +73,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
         8
       </button>
       <button
-        className="sc-jrsJWt kqmdox"
+        className="sc-eCApnc gsChNR"
         color="white"
         onClick={[Function]}
         type="submit"
@@ -81,7 +81,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
         9
       </button>
       <button
-        className="sc-kEqXSa djbGhZ"
+        className="sc-eCApnc bOhWqq"
         color="orange"
         onClick={[Function]}
         type="submit"
@@ -91,7 +91,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
     </div>
     <div>
       <button
-        className="sc-iqAclL bLdGMp"
+        className="sc-eCApnc gsChNR"
         color="white"
         onClick={[Function]}
         type="submit"
@@ -99,7 +99,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
         4
       </button>
       <button
-        className="sc-crzoAE igWTtX"
+        className="sc-eCApnc gsChNR"
         color="white"
         onClick={[Function]}
         type="submit"
@@ -107,7 +107,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
         5
       </button>
       <button
-        className="sc-dIsUp cWQvyw"
+        className="sc-eCApnc gsChNR"
         color="white"
         onClick={[Function]}
         type="submit"
@@ -115,7 +115,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
         6
       </button>
       <button
-        className="sc-bqGGPW ezTzYg"
+        className="sc-eCApnc bOhWqq"
         color="orange"
         onClick={[Function]}
         type="submit"
@@ -125,7 +125,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
     </div>
     <div>
       <button
-        className="sc-ksluID bjphtf"
+        className="sc-eCApnc gsChNR"
         color="white"
         onClick={[Function]}
         type="submit"
@@ -133,7 +133,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
         1
       </button>
       <button
-        className="sc-hBMUJo gZRyXw"
+        className="sc-eCApnc gsChNR"
         color="white"
         onClick={[Function]}
         type="submit"
@@ -141,7 +141,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
         2
       </button>
       <button
-        className="sc-fnVZcZ hZfcle"
+        className="sc-eCApnc gsChNR"
         color="white"
         onClick={[Function]}
         type="submit"
@@ -149,7 +149,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
         3
       </button>
       <button
-        className="sc-fFSPTT eWpmWj"
+        className="sc-eCApnc bOhWqq"
         color="orange"
         onClick={[Function]}
         type="submit"
@@ -159,7 +159,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
     </div>
     <div>
       <button
-        className="sc-bkbkJK kKBwOE"
+        className="sc-eCApnc gvUdyv"
         color="white"
         onClick={[Function]}
         type="submit"
@@ -167,7 +167,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
         0
       </button>
       <button
-        className="sc-iemWCZ gEJsec"
+        className="sc-eCApnc gsChNR"
         color="white"
         onClick={[Function]}
         type="submit"
@@ -175,7 +175,7 @@ exports[`App Componenet it always renders the same markup 1`] = `
         .
       </button>
       <button
-        className="sc-dIvrsQ gXPjxL"
+        className="sc-eCApnc bOhWqq"
         color="orange"
         onClick={[Function]}
         type="submit"
