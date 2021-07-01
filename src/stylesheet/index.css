@@ -1,61 +1,103 @@
 /* @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,600;0,800;1,500&display=swap"); */
 
 /* * { */
-  /* margin: 0; */
-  /* padding: 0; */
-  /* box-sizing: border-box; */
+
+/* margin: 0; */
+
+/* padding: 0; */
+
+/* box-sizing: border-box; */
+
 /* } */
 
 /* body { */
-  /* font-family: 'Poppins', sans-serif; */
-  /* background: #22303f; */
+
+/* font-family: 'Poppins', sans-serif; */
+
+/* background: #22303f; */
+
 /* } */
 
 /* #root { */
-  /* width: 100%; */
-  /* max-width: 600px; */
-  /* position: absolute; */
-  /* background: #283748; */
-  /* top: 50%; */
-  /* left: 50%; */
-  /* padding: 50px; */
-  /* transform: translate(-50%, -50%); */
-  /* box-shadow: rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px; */
+
+/* width: 100%; */
+
+/* max-width: 600px; */
+
+/* position: absolute; */
+
+/* background: #283748; */
+
+/* top: 50%; */
+
+/* left: 50%; */
+
+/* padding: 50px; */
+
+/* transform: translate(-50%, -50%); */
+
+/* box-shadow: rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px; */
+
 /* } */
 
 /* .display { */
-  /* padding: 20px; */
-  /* background: #22303f; */
-  /* color: white; */
-  /* font-size: 24px; */
-  /* min-height: 76px; */
-  /* overflow-x: hidden; */
+
+/* padding: 20px; */
+
+/* background: #22303f; */
+
+/* color: white; */
+
+/* font-size: 24px; */
+
+/* min-height: 76px; */
+
+/* overflow-x: hidden; */
+
 /* } */
 
 /* .button-container { */
-  /* display: grid; */
-  /* grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); */
-  /* grid-auto-flow: dense; */
-  /* gap: 5px; */
-  /* margin-top: 5px; */
+
+/* display: grid; */
+
+/* grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); */
+
+/* grid-auto-flow: dense; */
+
+/* gap: 5px; */
+
+/* margin-top: 5px; */
+
 /* } */
 
 /* .button-container button { */
-  /* padding: 20px; */
-  /* background: #22303f; */
-  /* border: none; */
-  /* color: #dfe6e9; */
-  /* font-size: 18px; */
+
+/* padding: 20px; */
+
+/* background: #22303f; */
+
+/* border: none; */
+
+/* color: #dfe6e9; */
+
+/* font-size: 18px; */
+
 /* } */
 
 /* .button-container button:hover { */
-  /* background: #1b2631; */
+
+/* background: #1b2631; */
+
 /* } */
 
 /* .button-container button:active { */
-  /* background: #121921; */
+
+/* background: #121921; */
+
 /* } */
 
 /* .button-group-4 { */
-  /* grid-template-columns: 1fr 1fr 2fr; */
+
+/* grid-template-columns: 1fr 1fr 2fr; */
+
 /* } */
