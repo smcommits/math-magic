@@ -27,7 +27,6 @@ class App extends React.Component {
 
   handleClick(buttonName) {
     this.setState(calculate(this.state, buttonName));
-    console.log(this.state);
   }
 
   handleKeyPress(buttonName) {
